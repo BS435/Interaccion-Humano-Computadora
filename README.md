@@ -1,5 +1,5 @@
-# Sistemas de Recomendacion 2026
-Este es un repositorio para subir actualizaciones del proyecto de la materia de sistemas de recomendacion de la informacion.
+# Interacción Humano-Computadora 2026
+Este es un repositorio para subir actualizaciones del proyecto de la materia de Interacción Humano-Computadora
 
 | NOMBRES                     | FOTO                                                                                          | DESCRIPCIÓN                                                                                                                                                             | LINKEDIN                                                                |
 |----------------------------|-----------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------|
