@@ -15,7 +15,7 @@ Este es un repositorio para subir actualizaciones del proyecto de la materia de 
 
 ## Navegación entre entregas
 
-- [Entrega 1](../Entrega-1/)
+- [Entrega 1](https://github.com/BS435/Interaccion-Humano-Computadora/tree/Primera-Entrega)
 - [Entrega 2](../Entrega-2/)
 - [Entrega 3](../Entrega-3/)
 <!--stackedit_data:
