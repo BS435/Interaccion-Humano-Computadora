@@ -17,7 +17,7 @@ Este es un repositorio para subir actualizaciones del proyecto de la materia de 
 
 - [Entrega 1](https://github.com/BS435/Interaccion-Humano-Computadora/tree/Primera-Entrega)
 - [Entrega 2](https://github.com/BS435/Interaccion-Humano-Computadora/tree/Segunda-Entrega)
-- [Entrega 3](../Entrega-3/)
+- [Entrega 3](https://github.com/BS435/Interaccion-Humano-Computadora/tree/Tercera-Entrega)
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbMTYzOTUwNTA4MiwxMDI5ODYyOTQwLDEwMj
 k4NjI5NDAsMTUwMjY2NTQyNCw4MjAxOTU5OTgsMTc3ODgxOTgx
